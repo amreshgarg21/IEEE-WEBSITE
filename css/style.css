@@ -5,3 +5,11 @@ nav {
     background-color: #000000;
     background-image: linear-gradient(147deg, #000000 0%, #04619f 74%);
 }
+
+.team_row {
+    height: 5vh;
+}
+
+.about_content p {
+    font-size: xx-large;
+}
