@@ -4,7 +4,7 @@ nav {
     border-radius: 0px;
     background-color: #000000;
     background-image: linear-gradient(147deg, #000000 0%, #04619f 74%);
-    font-size: x-large;
+    font-size: large;
 }
 
 .team_row {
@@ -12,7 +12,7 @@ nav {
 }
 
 .about_content p {
-    font-size: xx-large;
+    font-size: large;
 }
 
 .contact_form {
