@@ -27,3 +27,12 @@ nav {
 .contact_form_innerFields {
     background-color: unset;
 }
+
+.glass {
+    background: rgb(239 227 227 / 50%);
+    box-shadow: 0 8px 32px 0 rgb(76 83 178 / 37%);
+    backdrop-filter: blur( 20px);
+    -webkit-backdrop-filter: blur( 20px);
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18);
+}
